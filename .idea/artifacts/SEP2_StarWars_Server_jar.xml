@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SEP2_StarWars_Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SEP2_StarWars_Server_jar</output-path>
+    <root id="archive" name="SEP2_StarWars_Server.jar">
+      <element id="module-output" name="SEP2_StarWars_Server" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Packages/gson-2.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Packages/MyObserver-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Packages/postgresql-42.2.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
